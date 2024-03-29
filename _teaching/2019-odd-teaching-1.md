@@ -8,8 +8,6 @@ date: January 2019 - July 2019
 location: "Kudus, Indonesia"
 ---
 
-Description:
-======
 I provided one-on-one tutoring to students, customizing lesson plans to their individual learning styles and paces.
 
 Results:
