@@ -4,7 +4,7 @@ excerpt: "Explore the fascinating realm of retail analysis with my latest projec
 collection: portfolio
 ---
 
-Explore the fascinating realm of retail analysis with our latest project on Kaggle! I've dived deep into customer shopping trends using SQL markdown_generator/customer-shopping-trends-analysis.ipynb, uncovering valuable insights into purchase behavior, subscription trends, payment preferences, and more. 
+Explore the fascinating realm of retail analysis with our latest project on Kaggle! I've dived deep into [customer shopping trends using SQL](https://www.kaggle.com/code/andywow/customer-shopping-trends-analysis), uncovering valuable insights into purchase behavior, subscription trends, payment preferences, and more. You can download the pdf version [here](http://dandywibowo.github.io/files/customeranalysis.pdf).
 
 The dataset includes the following key characteristics:
 
