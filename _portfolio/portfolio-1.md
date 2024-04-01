@@ -1,6 +1,6 @@
 ---
 title: "Customer Shopping Trends Analysis"
-excerpt: "xplore the fascinating realm of retail analysis with my latest project on Kaggle!"
+excerpt: "Explore the fascinating realm of retail analysis with my latest project on Kaggle!"
 collection: portfolio
 ---
 
