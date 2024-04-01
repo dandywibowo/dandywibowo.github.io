@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Customer Shopping Trends Analysis"
+excerpt: "xplore the fascinating realm of retail analysis with my latest project on Kaggle!"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Explore the fascinating realm of retail analysis with our latest project on Kaggle! We've dived deep into customer shopping trends using SQL, uncovering valuable insights into purchase behavior, subscription trends, payment preferences, and more. Join us as we unravel the mysteries of shopping trends and discover actionable insights that can drive business growth. Check out our project now and embark on a journey through the world of retail data analysis!
